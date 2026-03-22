@@ -25,7 +25,7 @@ Actualmente trabajo con tecnologías como **Node.js, Express, MongoDB y Python**
 ### 🧼 AMC E-commerce
 Plataforma e-commerce full stack para la venta de productos de limpieza, con backend en Node.js y MongoDB. Permite gestionar productos, mostrar un catálogo dinámico y realizar pedidos mediante integración con WhatsApp.  
 **Dirigido a:** pequeños y medianos negocios que buscan digitalizar sus ventas  
-| [🔗Repositorio](link-al-repo) |
+([🔗Repositorio](https://amc-proyecto.vercel.app/))
 
 
 ---
@@ -40,35 +40,35 @@ Sistema en Python que automatiza la extracción y comparación de precios desde 
 ### 👨‍🍳 Compilador en Python - Lenguaje tipo receta
 Desarrollo de un compilador con lenguaje propio inspirado en recetas, implementando análisis léxico, sintáctico y semántico, junto con generación de código intermedio.  
 **Dirigido a:** fines académicos y estudio de compiladores  
-| [🔗Repositorio]([link-al-repo](https://github.com/TheNoobian/Compilador-chef)) |
+([🔗Repositorio](https://github.com/TheNoobian/Compilador-chef))
 
 ---
 
 ### 🎧 Plataforma de ejercicios auditivos
 Sistema web que permite crear y organizar ejercicios auditivos con múltiples audios, estructurados en niveles y actividades para rehabilitación auditiva.  
 **Dirigido a:** profesionales de la salud (fonoaudiología)  
-| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/Proyecto_Fono)) |
+([🔗Repositorio]((https://github.com/LautaroGVega/Proyecto_Fono))
 
 ---
 
 ### ⚙️ API Backend (Bienal)
 Desarrollo de una API backend con Node.js y Express para gestión de datos, implementando endpoints REST, estructura modular y conexión con base de datos.  
 **Dirigido a:** proyecto académico de desarrollo backend  
-| [🔗Repositorio]([link-al-repo](https://github.com/gmartineza/bienal-backend)) |
+([🔗Repositorio]((https://github.com/gmartineza/bienal-backend))
 
 ---
 
 ### 🥗 Sistema Integrador Nutrición
 Sistema orientado a registrar información de un grupo de nutrición, incluyendo la composición de sus galletitas (ingredientes y objetivos nutricionales), y permitiendo a los usuarios realizar devoluciones luego de probar el producto, evaluando aspectos como sabor y aceptación.  
 **Dirigido a:** proyecto académico integrador vinculado a evaluación de productos alimenticios  
-| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/BackendNutricion)) |
+([🔗Repositorio]((https://github.com/LautaroGVega/BackendNutricion))
 
 ---
 
 ### 📊 Modelos y Simulación
 Implementación de modelos de simulación y generación de variables aleatorias (como distribuciones exponenciales y normales), incluyendo validaciones estadísticas.  
 **Dirigido a:** análisis y simulación de sistemas  
-| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/Modelo)) |
+([🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/Modelo))
 
 ---
 
@@ -121,7 +121,7 @@ Implementación de modelos de simulación y generación de variables aleatorias 
 
 - Email: vegalautaro177@gmail.com
 - LinkedIn: ([LINK](https://www.linkedin.com/in/lautaro-vega-b58ab62a3/))
-- GitHub: ([agregar)](https://github.com/LautaroGVega)
+- GitHub: ([LINK)](https://github.com/LautaroGVega)
 
 ---
 
