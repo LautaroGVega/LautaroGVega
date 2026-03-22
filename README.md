@@ -47,28 +47,28 @@ Desarrollo de un compilador con lenguaje propio inspirado en recetas, implementa
 ### 🎧 Plataforma de ejercicios auditivos
 Sistema web que permite crear y organizar ejercicios auditivos con múltiples audios, estructurados en niveles y actividades para rehabilitación auditiva.  
 **Dirigido a:** profesionales de la salud (fonoaudiología)  
-([🔗Repositorio]((https://github.com/LautaroGVega/Proyecto_Fono))
+([🔗Repositorio](https://github.com/LautaroGVega/Proyecto_Fono))
 
 ---
 
 ### ⚙️ API Backend (Bienal)
 Desarrollo de una API backend con Node.js y Express para gestión de datos, implementando endpoints REST, estructura modular y conexión con base de datos.  
 **Dirigido a:** proyecto académico de desarrollo backend  
-([🔗Repositorio]((https://github.com/gmartineza/bienal-backend))
+([🔗Repositorio](https://github.com/gmartineza/bienal-backend))
 
 ---
 
 ### 🥗 Sistema Integrador Nutrición
 Sistema orientado a registrar información de un grupo de nutrición, incluyendo la composición de sus galletitas (ingredientes y objetivos nutricionales), y permitiendo a los usuarios realizar devoluciones luego de probar el producto, evaluando aspectos como sabor y aceptación.  
 **Dirigido a:** proyecto académico integrador vinculado a evaluación de productos alimenticios  
-([🔗Repositorio]((https://github.com/LautaroGVega/BackendNutricion))
+([🔗Repositorio](https://github.com/LautaroGVega/BackendNutricion))
 
 ---
 
 ### 📊 Modelos y Simulación
 Implementación de modelos de simulación y generación de variables aleatorias (como distribuciones exponenciales y normales), incluyendo validaciones estadísticas.  
 **Dirigido a:** análisis y simulación de sistemas  
-([🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/Modelo))
+([🔗Repositorio](https://github.com/LautaroGVega/Modelo))
 
 ---
 
