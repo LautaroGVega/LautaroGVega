@@ -1,12 +1,14 @@
-# Portfolio - Lautaro Vega 👋
+# Lautaro Vega 👋
 
 ## 👨‍💻 Presentación
 
 Soy Lautaro Vega, estudiante de **Ingeniería en Sistemas de Información** en la Universidad de la Cuenca del Plata.
 
-Me especializo en el desarrollo de software, con enfoque en backend, APIs y automatización. Me interesa construir soluciones tecnológicas aplicadas a problemas reales, especialmente en proyectos donde se combinan lógica, arquitectura y desarrollo práctico.
+Me interesa desarrollar soluciones tecnológicas que permitan **resolver problemas reales y mejorar el funcionamiento de las organizaciones**, especialmente mediante el desarrollo de software, automatización y diseño de sistemas de información.
 
-Actualmente trabajo con tecnologías como **Node.js, Express, MongoDB y Python**, y desarrollo proyectos orientados a e-commerce, scraping de datos y diseño de sistemas.
+Mi enfoque se basa en combinar pensamiento analítico, programación y modelado de sistemas para crear soluciones eficientes, alineando mis intereses personales con las necesidades del entorno profesional, tal como plantea mi Ikigai.
+
+Actualmente trabajo con tecnologías como **Node.js, Express, MongoDB y Python**, aplicándolas en proyectos orientados a e-commerce, scraping de datos y desarrollo de sistemas.
 
 ---
 
@@ -23,51 +25,50 @@ Actualmente trabajo con tecnologías como **Node.js, Express, MongoDB y Python**
 ## 🚀 Proyectos destacados
 
 ### 🧼 AMC E-commerce
-Plataforma e-commerce full stack para la venta de productos de limpieza, con backend en Node.js y MongoDB. Permite gestionar productos, mostrar un catálogo dinámico y realizar pedidos mediante integración con WhatsApp.  
+Plataforma e-commerce full stack para la venta de productos de limpieza, desarrollada con Node.js y MongoDB. Permite gestionar productos, visualizar un catálogo dinámico y automatizar pedidos mediante integración con WhatsApp, mejorando el proceso de venta digital.  
 **Dirigido a:** pequeños y medianos negocios que buscan digitalizar sus ventas  
 ([🔗Repositorio](https://amc-proyecto.vercel.app/))
-
 
 ---
 
 ### 🛒 Comparador de precios / Web Scraping
-Sistema en Python que automatiza la extracción y comparación de precios desde diferentes sitios web, permitiendo analizar oportunidades de mercado y monitorear productos.  
+Sistema en Python que automatiza la extracción y comparación de precios desde diferentes sitios web, reduciendo el tiempo de análisis manual y facilitando la toma de decisiones comerciales.  
 **Dirigido a:** usuarios o empresas que necesitan análisis de precios  
 ([🔗Repositorio](https://github.com/LautaroGVega/TrabajoActoresScrap))
 
 ---
 
 ### 👨‍🍳 Compilador en Python - Lenguaje tipo receta
-Desarrollo de un compilador con lenguaje propio inspirado en recetas, implementando análisis léxico, sintáctico y semántico, junto con generación de código intermedio.  
-**Dirigido a:** fines académicos y estudio de compiladores  
+Desarrollo de un compilador con lenguaje propio inspirado en recetas, implementando análisis léxico, sintáctico y semántico, permitiendo comprender el funcionamiento interno de los lenguajes de programación.  
+**Dirigido a:** formación académica en ingeniería de software  
 ([🔗Repositorio](https://github.com/TheNoobian/Compilador-chef))
 
 ---
 
 ### 🎧 Plataforma de ejercicios auditivos
-Sistema web que permite crear y organizar ejercicios auditivos con múltiples audios, estructurados en niveles y actividades para rehabilitación auditiva.  
+Sistema web para la creación de ejercicios auditivos organizados por niveles, facilitando la gestión de actividades y el uso de múltiples audios para procesos de rehabilitación.  
 **Dirigido a:** profesionales de la salud (fonoaudiología)  
 ([🔗Repositorio](https://github.com/LautaroGVega/Proyecto_Fono))
 
 ---
 
 ### ⚙️ API Backend (Bienal)
-Desarrollo de una API backend con Node.js y Express para gestión de datos, implementando endpoints REST, estructura modular y conexión con base de datos.  
-**Dirigido a:** proyecto académico de desarrollo backend  
+API desarrollada con Node.js y Express para gestión de datos y lógica de negocio, aplicando arquitectura modular y buenas prácticas de desarrollo backend.  
+**Dirigido a:** desarrollo de sistemas backend en entornos académicos  
 ([🔗Repositorio](https://github.com/gmartineza/bienal-backend))
 
 ---
 
 ### 🥗 Sistema Integrador Nutrición
-Sistema orientado a registrar información de un grupo de nutrición, incluyendo la composición de sus galletitas (ingredientes y objetivos nutricionales), y permitiendo a los usuarios realizar devoluciones luego de probar el producto, evaluando aspectos como sabor y aceptación.  
-**Dirigido a:** proyecto académico integrador vinculado a evaluación de productos alimenticios  
+Sistema que permite registrar la composición nutricional de productos y recopilar devoluciones de usuarios sobre su aceptación, facilitando el análisis de productos alimenticios.  
+**Dirigido a:** evaluación de productos en el área de salud  
 ([🔗Repositorio](https://github.com/LautaroGVega/BackendNutricion))
 
 ---
 
 ### 📊 Modelos y Simulación
-Implementación de modelos de simulación y generación de variables aleatorias (como distribuciones exponenciales y normales), incluyendo validaciones estadísticas.  
-**Dirigido a:** análisis y simulación de sistemas  
+Implementación de modelos de simulación y generación de variables aleatorias, aplicando herramientas estadísticas para el análisis de sistemas.  
+**Dirigido a:** análisis y modelado de sistemas complejos  
 ([🔗Repositorio](https://github.com/LautaroGVega/Modelo))
 
 ---
@@ -113,21 +114,21 @@ Implementación de modelos de simulación y generación de variables aleatorias 
 
 ## 📄 CV
 
-📄 Descargar CV: (agregar link al PDF - Google Drive, Dropbox o similar)
+📄 Descargar CV: (agregar link)
 
 ---
 
 ## 📫 Contacto
 
-- Email: vegalautaro177@gmail.com
-- LinkedIn: ([LINK](https://www.linkedin.com/in/lautaro-vega-b58ab62a3/))
-- GitHub: ([LINK](https://github.com/LautaroGVega))
+- Email: vegalautaro177@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/lautaro-vega-b58ab62a3/  
+- GitHub: https://github.com/LautaroGVega  
 
 ---
 
 ## 🎥 Video de presentación
 
-🎥 (agregar link al video - duración entre 30 segundos y 1 minuto)
+🎥 (agregar link)
 
 ---
 
