@@ -6,7 +6,7 @@ Soy Lautaro Vega, estudiante de **Ingeniería en Sistemas de Información** en l
 
 Me interesa desarrollar soluciones tecnológicas que permitan **resolver problemas reales y mejorar el funcionamiento de las organizaciones**, especialmente mediante el desarrollo de software, automatización y diseño de sistemas de información.
 
-Mi enfoque se basa en combinar pensamiento analítico, programación y modelado de sistemas para crear soluciones eficientes, alineando mis intereses personales con las necesidades del entorno profesional, tal como plantea mi Ikigai.
+Mi enfoque se basa en combinar pensamiento analítico, programación y modelado de sistemas para crear soluciones eficientes, alineando mis intereses personales con las necesidades del entorno profesional.
 
 Actualmente trabajo con tecnologías como **Node.js, Express, MongoDB y Python**, aplicándolas en proyectos orientados a e-commerce, scraping de datos y desarrollo de sistemas.
 
