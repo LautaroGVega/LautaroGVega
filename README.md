@@ -121,7 +121,7 @@ Implementación de modelos de simulación y generación de variables aleatorias 
 
 - Email: vegalautaro177@gmail.com
 - LinkedIn: ([LINK](https://www.linkedin.com/in/lautaro-vega-b58ab62a3/))
-- GitHub: ([LINK)](https://github.com/LautaroGVega))
+- GitHub: ([LINK](https://github.com/LautaroGVega))
 
 ---
 
