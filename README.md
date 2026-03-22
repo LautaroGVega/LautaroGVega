@@ -33,7 +33,7 @@ Plataforma e-commerce full stack para la venta de productos de limpieza, con bac
 ### 🛒 Comparador de precios / Web Scraping
 Sistema en Python que automatiza la extracción y comparación de precios desde diferentes sitios web, permitiendo analizar oportunidades de mercado y monitorear productos.  
 **Dirigido a:** usuarios o empresas que necesitan análisis de precios  
-| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/TrabajoActoresScrap)) |
+([link-al-repo](https://github.com/LautaroGVega/TrabajoActoresScrap))
 
 ---
 
