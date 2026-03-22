@@ -1,176 +1,136 @@
-# Lautaro Vega 👋
+# Portfolio - Lautaro Vega 👋
 
-Soy estudiante de **Ingeniería en Sistemas de Información**, con orientación al desarrollo de software y construcción de soluciones tecnológicas aplicadas a problemas reales.
+## 👨‍💻 Presentación
 
-Me especializo en backend, automatización y diseño de sistemas, trabajando principalmente con **Node.js, Python y bases de datos**.
+Soy Lautaro Vega, estudiante de **Ingeniería en Sistemas de Información** en la Universidad de la Cuenca del Plata.
 
----
+Me especializo en el desarrollo de software, con enfoque en backend, APIs y automatización. Me interesa construir soluciones tecnológicas aplicadas a problemas reales, especialmente en proyectos donde se combinan lógica, arquitectura y desarrollo práctico.
 
-## 📌 Sobre mí
-
-Actualmente desarrollo proyectos que combinan:
-
-- Desarrollo web full stack
-- APIs REST y arquitectura backend
-- Automatización y scraping de datos
-- Modelado de sistemas
-- Desarrollo de soluciones aplicadas a negocios reales
-
-Busco seguir creciendo profesionalmente y adquirir experiencia en entornos de desarrollo reales.
+Actualmente trabajo con tecnologías como **Node.js, Express, MongoDB y Python**, y desarrollo proyectos orientados a e-commerce, scraping de datos y diseño de sistemas.
 
 ---
 
-## 🛠️ Tecnologías
+## 📌 Datos personales
 
-**Backend**
+- Nombre completo: Lautaro Gonzalo Vega  
+- Edad: 22 años  
+- Carrera: Ingeniería en Sistemas de Información  
+- Universidad: Universidad de la Cuenca del Plata  
+- Ubicación: Corrientes Capital, Argentina  
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🧼 AMC E-commerce
+Plataforma e-commerce full stack para la venta de productos de limpieza, con backend en Node.js y MongoDB. Permite gestionar productos, mostrar un catálogo dinámico y realizar pedidos mediante integración con WhatsApp.  
+**Dirigido a:** pequeños y medianos negocios que buscan digitalizar sus ventas  
+| [🔗Repositorio](link-al-repo) |
+
+
+---
+
+### 🛒 Comparador de precios / Web Scraping
+Sistema en Python que automatiza la extracción y comparación de precios desde diferentes sitios web, permitiendo analizar oportunidades de mercado y monitorear productos.  
+**Dirigido a:** usuarios o empresas que necesitan análisis de precios  
+| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/TrabajoActoresScrap)) |
+
+---
+
+### 👨‍🍳 Compilador en Python - Lenguaje tipo receta
+Desarrollo de un compilador con lenguaje propio inspirado en recetas, implementando análisis léxico, sintáctico y semántico, junto con generación de código intermedio.  
+**Dirigido a:** fines académicos y estudio de compiladores  
+| [🔗Repositorio]([link-al-repo](https://github.com/TheNoobian/Compilador-chef)) |
+
+---
+
+### 🎧 Plataforma de ejercicios auditivos
+Sistema web que permite crear y organizar ejercicios auditivos con múltiples audios, estructurados en niveles y actividades para rehabilitación auditiva.  
+**Dirigido a:** profesionales de la salud (fonoaudiología)  
+| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/Proyecto_Fono)) |
+
+---
+
+### ⚙️ API Backend (Bienal)
+Desarrollo de una API backend con Node.js y Express para gestión de datos, implementando endpoints REST, estructura modular y conexión con base de datos.  
+**Dirigido a:** proyecto académico de desarrollo backend  
+| [🔗Repositorio]([link-al-repo](https://github.com/gmartineza/bienal-backend)) |
+
+---
+
+### 🥗 Sistema Integrador Nutrición
+Sistema orientado a registrar información de un grupo de nutrición, incluyendo la composición de sus galletitas (ingredientes y objetivos nutricionales), y permitiendo a los usuarios realizar devoluciones luego de probar el producto, evaluando aspectos como sabor y aceptación.  
+**Dirigido a:** proyecto académico integrador vinculado a evaluación de productos alimenticios  
+| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/BackendNutricion)) |
+
+---
+
+### 📊 Modelos y Simulación
+Implementación de modelos de simulación y generación de variables aleatorias (como distribuciones exponenciales y normales), incluyendo validaciones estadísticas.  
+**Dirigido a:** análisis y simulación de sistemas  
+| [🔗Repositorio]([link-al-repo](https://github.com/LautaroGVega/Modelo)) |
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes de programación:**
+- JavaScript
+- Python
+- Java
+- C++
+
+**Backend:**
 - Node.js
 - Express.js
-- Python
-- JWT
+- NestJS
 
-**Frontend**
+**Frontend:**
 - HTML
 - CSS
 - JavaScript
 - Next.js
 - Vue
 
-**Bases de datos**
+**Bases de datos:**
 - MongoDB
-- SQL
+- MySQL
+- PostgreSQL
 
-**Herramientas**
-- Git & GitHub
+**Automatización y scraping:**
 - Playwright
 - Axios
 - Cheerio
-- Supabase
+- n8n
 
----
-
-## 📂 Proyectos destacados
-
-### 🧼 AMC E-commerce
-
-Sistema e-commerce orientado a la venta de productos de limpieza.
-
-**Tecnologías:** Node.js, Express, MongoDB, Next.js, Supabase  
-
-**Descripción:**
-Aplicación full stack que permite gestionar productos, visualizar catálogo y realizar pedidos mediante integración con WhatsApp.
-
-**Funcionalidades:**
-- API REST para gestión de productos
-- Carga y almacenamiento de imágenes
-- Catálogo dinámico
-- Carrito de compras
-- Integración con WhatsApp para ventas
-
-**Dirigido a:** pequeños y medianos negocios que buscan digitalizar su canal de ventas  
-
-🔗 Repositorio: [Agregar link]
-
----
-
-### 🛒 Comparador de precios / Web Scraping
-
-Sistema para obtener y comparar precios de productos desde diferentes sitios web.
-
-**Tecnologías:** Python, Playwright, Axios, Cheerio  
-
-**Descripción:**
-Herramienta que automatiza la recolección de datos de productos, permitiendo analizar precios y detectar oportunidades.
-
-**Funcionalidades:**
-- Scraping automatizado
-- Extracción de precios
-- Comparación entre múltiples fuentes
-
-**Dirigido a:** usuarios o empresas que necesitan monitorear precios del mercado  
-
-🔗 Repositorio: [Agregar link]
-
----
-
-### ⚙️ Sistema con Actor Model
-
-Aplicación basada en el modelo de actores para procesar tareas de forma concurrente.
-
-**Tecnologías:** Python, Thespian  
-
-**Descripción:**
-Arquitectura distribuida donde cada actor cumple una función específica (búsqueda, parsing, comparación y almacenamiento).
-
-**Funcionalidades:**
-- Procesamiento concurrente
-- Separación por actores independientes
-- Sistema escalable y desacoplado
-
-**Dirigido a:** sistemas que requieren procesamiento paralelo y alta escalabilidad  
-
-🔗 Repositorio: [Agregar link]
-
----
-
-### 👨‍🍳 Compilador en Python - Lenguaje tipo receta
-
-Desarrollo de un lenguaje propio inspirado en recetas de cocina.
-
-**Tecnologías:** Python  
-
-**Descripción:**
-Implementación completa de un compilador que incluye análisis léxico, sintáctico y semántico.
-
-**Funcionalidades:**
-- Definición de gramática
-- Validación semántica
-- Generación de código intermedio
-
-**Dirigido a:** fines educativos y estudio de compiladores  
-
-🔗 Repositorio: [Agregar link]
-
----
-
-### 🎧 Plataforma de ejercicios auditivos
-
-Sistema para la gestión de ejercicios auditivos organizados por niveles y actividades.
-
-**Tecnologías:** JavaScript, HTML, Backend web  
-
-**Descripción:**
-Aplicación orientada a la creación de ejercicios auditivos con soporte para múltiples audios y niveles progresivos.
-
-**Funcionalidades:**
-- Gestión de niveles y actividades
-- Ejercicios auditivos interactivos
-- Asociación de audios personalizados
-
-**Dirigido a:** profesionales de la salud o educación (ej. fonoaudiología)  
-
-🔗 Repositorio: [Agregar link]
+**Herramientas y DevOps:**
+- Git
+- GitHub
+- Docker
+- Postman / Thunder Client
 
 ---
 
 ## 📄 CV
 
-📄 Descargar CV: [Agregar link a PDF]
-
----
-
-## 🎥 Video de presentación
-
-🎥 Ver video: [Agregar link]
+📄 Descargar CV: (agregar link al PDF - Google Drive, Dropbox o similar)
 
 ---
 
 ## 📫 Contacto
 
-- Email: [Agregar email]
-- LinkedIn: [Agregar link]
+- Email: vegalautaro177@gmail.com
+- LinkedIn: ([LINK](https://www.linkedin.com/in/lautaro-vega-b58ab62a3/))
+- GitHub: ([agregar)](https://github.com/LautaroGVega)
 
 ---
 
-## 📅 Información
+## 🎥 Video de presentación
 
-Fecha de creación: Marzo 2026
+🎥 (agregar link al video - duración entre 30 segundos y 1 minuto)
+
+---
+
+## 📅 Fecha de creación
+
+Marzo 2026
