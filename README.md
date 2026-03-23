@@ -128,7 +128,7 @@ Implementación de modelos de simulación y generación de variables aleatorias,
 
 ## 🎥 Video de presentación
 
-🎥 [(LINK)](https://youtube.com/shorts/WgVl8mRm-4U?feature=share)
+🎥 ([(LINK)](https://youtube.com/shorts/WgVl8mRm-4U?feature=share))
 
 ---
 
